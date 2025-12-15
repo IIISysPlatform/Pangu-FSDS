@@ -1,4 +1,4 @@
-# openPangu-Embedded-7B-V1.1
+# Pangu-FSDS:pangu Fast–Slow think for Dynamic Scheduling
 [中文](README.md) | English
 
 ## 1. Introduction
