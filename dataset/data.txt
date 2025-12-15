@@ -1,0 +1,1 @@
+please download djsp.json from Release
