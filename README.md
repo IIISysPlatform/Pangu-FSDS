@@ -44,6 +44,7 @@ Atlas 800T A2 (64GB)，驱动与固件安装包获取请参照 [[Atlas 800T A2](
 ### 3.2 微调
 
 > 在 `lora` 框架上进行微调，运行前请修改train.py，添加原始模型路径，数据集路径，Lora权重输出路径。
+> use_card_num设置使用npu的数量，根据实际情况进行调整
 
 ```bash
 cd train
