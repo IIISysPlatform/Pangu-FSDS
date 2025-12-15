@@ -46,7 +46,7 @@ class Logger(object):
 
 
 MODEL_PATH = "../weight/openpangu-7B-v1.1"
-DATA_PATH = "..dataset/djsp.json"
+DATA_PATH = "../dataset/djsp.json"
 OUTPUT_DIR = "./djsp_lora_quick_slow"
 
 MAX_LENGTH = 1024
