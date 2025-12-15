@@ -58,7 +58,7 @@ python infer.py
 ```
 
 The Pangu-FSDS model operates in slow-thinking mode by default. It can be switched to adaptive fast–slow thinking mode or fast-thinking mode using the following method:
-- In the code example generate.py, the definitions of the auto_thinking_prompt and no_thinking_prompt variables demonstrate how to switch to adaptive fast–slow thinking or fast-thinking mode. Specifically, by appending the /auto_think or /no_think tag to the end of the user input, the current interaction can be switched to adaptive fast–slow thinking mode or fast-thinking mode, respectively.
+- In the code example infer.py, the definitions of the auto_thinking_prompt and no_thinking_prompt variables demonstrate how to switch to adaptive fast–slow thinking or fast-thinking mode. Specifically, by appending the /auto_think or /no_think tag to the end of the user input, the current interaction can be switched to adaptive fast–slow thinking mode or fast-thinking mode, respectively.
 
 ## 4. Model License
 
