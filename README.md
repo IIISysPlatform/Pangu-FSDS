@@ -61,7 +61,7 @@ python infer.py
 
 Pangu-FSDS 模型默认为慢思考模式，可以通过以下手段切换至快慢自适应切换/快思考模式：
 
-- 在代码实例`generate.py`中，`auto_thinking_prompt`与`no_thinking_prompt`变量的定义展示了切换至快慢自适应或快思考模式的具体实现：通过在用户输入末尾添加`/auto_think`或`/no_think`标记，可将当前轮次切换至快慢自适应切换/快思考模式。
+- 在代码实例`infer.py`中，`auto_thinking_prompt`与`no_thinking_prompt`变量的定义展示了切换至快慢自适应或快思考模式的具体实现：通过在用户输入末尾添加`/auto_think`或`/no_think`标记，可将当前轮次切换至快慢自适应切换/快思考模式。
 
 ## 4. 模型许可证
 
