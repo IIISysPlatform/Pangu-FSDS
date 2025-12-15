@@ -1,4 +1,4 @@
-# Pangu-FSDS:pangu Fast–Slow think for Dynamic Scheduling
+# Pangu-FSDS:Pangu Fast–Slow think for Dynamic Scheduling
 
 中文 | [English](README_EN.md)
 
