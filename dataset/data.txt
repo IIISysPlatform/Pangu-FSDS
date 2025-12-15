@@ -1,1 +1,3 @@
 please download djsp.json from Release
+
+https://github.com/IIISysPlatform/Pangu-FSDS/releases/tag/dataset
